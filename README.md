@@ -73,7 +73,7 @@ This project aims to ensure the reliability and functionality of the [E-commerce
 
 ### Installation and setup
 
-- Clone the Repository
+- Clone the Repository 
 
 ```
 git clone https://github.com/DominikCLK/eCommerce-tests.git
