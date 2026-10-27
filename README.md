@@ -27,7 +27,7 @@ This project aims to ensure the reliability and functionality of the [E-commerce
 
 <p align="center">
   <a href="#">
-    <img src="https://github.com/DominikCLK/eCommerce-tests/assets/75272795/63face02-d380-4fda-a419-efce56d9b5d6" />
+    <img src="https://github.com/DominikCLK/eCommerce-tests/assets/75272795/63face02-d380-4fda-a419-efce56d9b5d6" /> 
   </a>
 </p>
 
