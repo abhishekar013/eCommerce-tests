@@ -197,6 +197,6 @@ The business requirements introduced below regarding registration, login, produc
 |     | API-I-ECTS-R04-05 | user | Verify that endpoint '/carts/' successfully removes products in the basket (DELETE method) - status 204                                                     |
 |     | API-I-ECTS-R04-06 | user | Verify that endpoint '/carts/basketId' successfully returns empty basket, verify cart_items is 0 (GET method) - status 200                                  |
 
-## Author
+## Author 
 
 - [@DominikCLK](https://github.com/DominikCLK)
