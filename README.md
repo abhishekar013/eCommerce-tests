@@ -32,7 +32,7 @@ This project aims to ensure the reliability and functionality of the [E-commerce
 </p>
 
 ## 🛠 Technologies Used
-
+ 
 - **`Playwright Framework:`** A powerful automation framework for browsers.
 - **`TypeScript:`** Enhance code readability and maintainability with strong typing and modern features.
 - **`Faker library:`** A versatile tool in software development for generating synthetic but realistic data. With Faker, developers can effortlessly create mock datasets for testing, prototyping, or populating databases with fictional yet believable information. This library is invaluable for scenarios requiring dummy data without compromising sensitive information, facilitating efficient testing and development processes.
