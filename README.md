@@ -3,14 +3,14 @@
 <p align="center"> 
   <a href="#">
     <img src="https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/852f9436-e12f-4aec-9002-7d6dba4cf764" />
-  </a>
+  </a> 
 </p> 
 
 ## Overview  
 
 This project aims to ensure the reliability and functionality of the [E-commerce](<[https://demo-bank.vercel.app/](https://practicesoftwaretesting.com/#/)>) website through automated testing. Leveraging the Playwright framework with TypeScript, we strive to streamline the testing process, catching potential issues early on and maintaining a robust and error-free web application. 
  
-## 🚀 Scope
+## 🚀 Scope 
 
 - **End-to-end testing:** Simulate real user interactions to validate the entire user journey. 
 
