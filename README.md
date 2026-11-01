@@ -6,13 +6,13 @@
   </a>
 </p> 
 
-## Overview 
+## Overview  
 
-This project aims to ensure the reliability and functionality of the [E-commerce](<[https://demo-bank.vercel.app/](https://practicesoftwaretesting.com/#/)>) website through automated testing. Leveraging the Playwright framework with TypeScript, we strive to streamline the testing process, catching potential issues early on and maintaining a robust and error-free web application.
-
+This project aims to ensure the reliability and functionality of the [E-commerce](<[https://demo-bank.vercel.app/](https://practicesoftwaretesting.com/#/)>) website through automated testing. Leveraging the Playwright framework with TypeScript, we strive to streamline the testing process, catching potential issues early on and maintaining a robust and error-free web application. 
+ 
 ## 🚀 Scope
 
-- **End-to-end testing:** Simulate real user interactions to validate the entire user journey.
+- **End-to-end testing:** Simulate real user interactions to validate the entire user journey. 
 
 - **Smoke testing:** Conduct basic, quick checks on functionalities to ensure the software's fundamental features are operational. These tests are designed to provide a rapid assessment of system stability and readiness for more comprehensive testing, serving as a preliminary validation step before delving into deeper testing scenarios.
 
