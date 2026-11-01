@@ -16,7 +16,7 @@ This project aims to ensure the reliability and functionality of the [E-commerce
 
 - **Smoke testing:** Conduct basic, quick checks on functionalities to ensure the software's fundamental features are operational. These tests are designed to provide a rapid assessment of system stability and readiness for more comprehensive testing, serving as a preliminary validation step before delving into deeper testing scenarios.
 
-- **Backend API testing:** Ensure the robustness and reliability of your backend infrastructure by meticulously examining each endpoint and functionality.
+- **Backend API testing:** Ensure the robustness and reliability of your backend infrastructure by meticulously examining each endpoint and functionality. 
 
 - **Integration testing:** Validate the seamless interaction between different components of your system to ensure smooth data flow and functionality across interconnected modules.
 
