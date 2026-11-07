@@ -1,10 +1,10 @@
-# ⚡️Playwright framework for E-commerce automated tests ⚡️ 
+# ⚡️Playwright framework for E-commerce automated tests ⚡️
  
 <p align="center"> 
   <a href="#"> 
     <img src="https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/852f9436-e12f-4aec-9002-7d6dba4cf764" /> 
-  </a>   
-</p>   
+  </a> 
+</p> 
 
 ## Overview
 
