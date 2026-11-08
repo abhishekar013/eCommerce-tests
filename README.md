@@ -1,4 +1,4 @@
-# ⚡️Playwright framework for E-commerce automated tests ⚡️
+# ⚡️Playwright framework for E-commerce automated tests ⚡️ 
  
 <p align="center"> 
   <a href="#"> 
