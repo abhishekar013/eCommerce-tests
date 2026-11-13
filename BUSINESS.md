@@ -3,10 +3,10 @@
 <p align="center">
   <a href="#">
     <img src="https://github.com/DominikCLK/Demo-Bank-Project/assets/75272795/852f9436-e12f-4aec-9002-7d6dba4cf764" />
-  </a>
+  </a> 
 </p>
-
-## Overview
+ 
+## Overview 
 
 To ensure the effective operation of an e-commerce store specializing in the sale of construction tools, it is necessary to establish clear and detailed business requirements. This document aims to describe these requirements, which include functionalities related to registration, login, product search, basket and order management, as well as API integration.
 
