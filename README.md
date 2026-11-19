@@ -94,7 +94,7 @@ API_URL='https://api.practicesoftwaretesting.com'
 
 <br>
 
-Run all tests:
+Run all tests: 
 
 ```
 npx playwright test
